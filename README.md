@@ -53,5 +53,21 @@ Explore various charts representing player and team performances
 Analyze data trends with dynamic charts, slicers, and filters
 
 ## View the dashboard
-![]()
+![](Dashboard_image.jpg)
+
+## Project Insights
+The analysis focused on various IPL performance metrics such as:
+
+- Team and individual player statistics
+- Match performance breakdowns
+- Insights into top performers based on runs, wickets, and more
+- Filtering data by season, player, and team
+
+## Skills Demonstrated
+- Data Import and Connection: Connected Power BI to MS SQL Server and PostgreSQL databases to import raw data.
+- Data Cleaning: Used Power Query Editor to clean and transform raw data, ensuring that it was in the right format for analysis.
+- Data Modeling: Created relationships between multiple data tables and performed data modeling to build a structured data model for analysis.
+- DAX: Used DAX for advanced calculations, including KPIs and measures such as total runs, strike rates, and wickets.
+- Visualization and Reporting: Created dynamic and interactive charts, slicers, and filters to allow for in-depth exploration of IPL data.
+- Dashboard Design: Designed an intuitive and visually appealing dashboard that presents key IPL statistics and insights in a clear and concise manner.
 
