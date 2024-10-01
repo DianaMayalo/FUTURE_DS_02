@@ -24,7 +24,6 @@ This project highlights various functionalities of Power BI, from importing raw 
 ## Technologies Used
 - Microsoft Power BI: For data visualization and dashboard creation
 - Microsoft SQL Server: Used for data storage and processing
-- PostgreSQL: For raw data storage and retrieval
 - DAX (Data Analysis Expressions): For calculations and creating custom measures in Power BI
 - Power Query Editor: For data cleaning and transformations
 
@@ -32,13 +31,13 @@ This project highlights various functionalities of Power BI, from importing raw 
 To run this project locally:
 1. Clone the repository to your local machine.
 2. Install Power BI Desktop.
-3. Ensure you have access to a PostgreSQL or Microsoft SQL Server instance to connect your data source.
+3. Ensure you have access to Microsoft SQL Server to connect your data source.
 4. Open the Power BI file and follow the instructions to connect to your data source.
 
 ## Steps:
-1. Import raw data into PostgreSQL and MS SQL Server.
-2. Connect Power BI to these databases.
-3. Import raw data from both databases into Power BI.
+1. Import raw data into MS SQL Server.
+2. Connect Power BI to the databases.
+3. Import raw data from the Microsoft SQL Server into Power BI.
 4. Clean and process the data using Power Query Editor.
 5. Build data models and create relationships between tables.
 6. Use DAX for creating measures, KPIs, and calculations.
@@ -46,10 +45,10 @@ To run this project locally:
 
 ## Usage
 The dashboard allows users to:
-Filter IPL data by teams, players, and seasons
-View KPIs such as total runs, wickets, strike rates, and economy rates
-Explore various charts representing player and team performances
-Analyze data trends with dynamic charts, slicers, and filters
+- Filter IPL data by teams, players, and seasons
+- View KPIs such as total runs, wickets, strike rates, and economy rates
+- Explore various charts representing player and team performances
+- Analyze data trends with dynamic charts, slicers, and filters
 
 ## View the dashboard
 ![](Dashboard_image.jpg)
@@ -63,7 +62,7 @@ The analysis focused on various IPL performance metrics such as:
 - Filtering data by season, player, and team
 
 ## Skills Demonstrated
-- Data Import and Connection: Connected Power BI to MS SQL Server and PostgreSQL databases to import raw data.
+- Data Import and Connection: Connected Power BI to MS SQL Server to import raw data.
 - Data Cleaning: Used Power Query Editor to clean and transform raw data, ensuring that it was in the right format for analysis.
 - Data Modeling: Created relationships between multiple data tables and performed data modeling to build a structured data model for analysis.
 - DAX: Used DAX for advanced calculations, including KPIs and measures such as total runs, strike rates, and wickets.
