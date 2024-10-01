@@ -12,7 +12,6 @@ This project highlights various functionalities of Power BI, from importing raw 
 5. Usage
 6. Project Insights
 7. Skills Demonstrated
-8. Credits
 
 ## Features
 - Interactive dashboard showcasing key IPL metrics
