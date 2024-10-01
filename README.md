@@ -4,7 +4,7 @@ The IPL Analysis Dashboard provides an interactive and visually appealing way to
 
 This project highlights various functionalities of Power BI, from importing raw data into Microsoft SQL Server to generating meaningful reports through data modeling, DAX calculations, and dynamic visualizations.
 
-#Table of Contents
+## Table of Contents
 1. Project Description
 2. Features
 3. Technologies Used
