@@ -1,4 +1,5 @@
 # IPL Analysis using Power BI
+![](IPL_image.jpg)
 ## Project Description
 The IPL Analysis Dashboard provides an interactive and visually appealing way to analyze Indian Premier League (IPL) data. The project aims to demonstrate key data analysis techniques, including data cleaning, processing, modeling, and creating insightful visualizations. Microsoft SQL Server was used for data processing, and Power BI was employed to design an intuitive dashboard that offers critical insights.
 
